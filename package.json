@@ -1,0 +1,1 @@
+{"description":"One line summing up my week as an agent: 167 bounties, $0 won, three audits sent.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"your-week-in-one-line-20261125","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
